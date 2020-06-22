@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shopp-common" />
+        <module name="shopp-eurekaserver" />
+        <module name="shopp-LCNmanage" />
+        <module name="shopp-member" />
+        <module name="shopp-member-api" />
+        <module name="shopp-message" />
+        <module name="shopp-order" />
+        <module name="shopp-order-api" />
+        <module name="shopp-pay" />
+        <module name="shopp-pay-api" />
+        <module name="shopp-web" />
+        <module name="shopp-weixin" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shopp-LCNmanage" options="" />
+      <module name="shopp-message" options="" />
+      <module name="shopp-order" options="" />
+      <module name="shopp-pay" options="" />
+      <module name="shopp-weixin" options="" />
+    </option>
+  </component>
+</project>

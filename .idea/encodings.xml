@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-LCNmanage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-api/shopp-member-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-api/shopp-order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-api/shopp-pay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-pay/src/main/java/com/qiuhang/shopp/config/AlipayConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopp-weixin" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
